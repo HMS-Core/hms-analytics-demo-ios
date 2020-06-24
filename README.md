@@ -1,4 +1,4 @@
-# HmsAnalyticsKitDemo
+# HMS AnalyticsKit Demo
 
 
 ## Table of Contents
