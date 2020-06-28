@@ -36,7 +36,7 @@ Open the CLI and navigate to the location of the Xcode project.Edit the Podfile 
 
 Install the pod and open the .xcworkspace file to view the project.
 
-You should create an iOS app in AppGallery Connect, and obtain the file of agconnect-services.plist and add to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project, [More to Development Process] (https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/ios-dev-process-0000001050168431-V5)
+You should create an iOS app in AppGallery Connect, and obtain the file of agconnect-services.plist and add to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project, [More to Development Process](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/ios-dev-process-0000001050168431-V5)
 
 ## Installation
 Use Xcode to open the decompressed project.
