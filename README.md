@@ -55,10 +55,9 @@ Software requirements:
 
 
 ## Result
-After running the app you should see a screen like this:
+After running the app you should see a screen.
 
-Click the button TRUE or FALSE to answer the question; Click the Setting to 
-set user profiles.
+And click the button TRUE or FALSE to answer the question; Click the Setting to set user profiles.
 
 Click button SETTINGS:
 When you click the Setting button, you will be asked for your gender, age, and favorite sports. These information will be logged as users attributes by HUAWEI Analytics Kit.
