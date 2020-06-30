@@ -59,12 +59,12 @@ After running the app you should see a screen.
 
 And click the button TRUE or FALSE to answer the question; Click the Setting to set user profiles.
 
-<img src="https://github.com/HMS-Core/hms-ananlytics-demo-android/blob/master/images/screen_0.PNG" width=250 title="ID Photo DIY" div align=center border=5>
+<img src="https://github.com/HMS-Core/hms-ananlytics-demo-ios/blob/master/image/1.png" width=250 title="ID Photo DIY" div align=center border=5>
 
 Click button SETTINGS:
 When you click the Setting button, you will be asked for your gender, age, and favorite sports. These information will be logged as users attributes by HUAWEI Analytics Kit.
 
-<img src="https://github.com/HMS-Core/hms-ananlytics-demo-android/blob/master/images/screen_0.PNG" width=250 title="ID Photo DIY" div align=center border=5>
+<img src="https://github.com/HMS-Core/hms-ananlytics-demo-ios/blob/master/image/2.png" width=250 title="ID Photo DIY" div align=center border=5>
 
 
 ##  License
