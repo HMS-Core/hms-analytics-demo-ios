@@ -1,5 +1,8 @@
 # 华为分析服务iOS SDK示例代码
 
+[![hms](https://img.shields.io/badge/hms-analytics-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
+
+[English](https://github.com/HMS-Core/hms-ananlytics-demo-ios) | 中文
 
 ## Table of Contents
 
