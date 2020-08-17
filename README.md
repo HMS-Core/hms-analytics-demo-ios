@@ -17,16 +17,16 @@ English | [中文](https://github.com/HMS-Core/hms-ananlytics-demo-ios/blob/mast
 
 ## Introduction
 Hmsanalyticskitdemo provides an example of integrating HUAWEI Analytics Kit with an app. It illustrates how to collect predefined events and custom events on two pages, namely, question page or user attribute setting page. If you click TRUE or FALSE on the question page, automatically collected events including page exit and page entry will be logged when the page is switched. 
-[Read more about Hianalytics](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/introduction-0000001050745149).
+[Read more about Hianalytics](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050745149).
 	
 
 ## Getting Started
 
 For more development guidance, please refer to the links below:
 
-[Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/ios-dev-process-0000001050168431)
+[Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ios-dev-process-0000001050168431)
 
-[API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-References-V5/ios-api-huawei-analytics-overview-0000001050164673)
+[API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-References/ios-api-huawei-analytics-overview-0000001050164673)
 
 In this example, we demonstrate how to use the analytics SDK for iOS by using the CocoaPods Tool, a dependency manager for Swift and Objective-C Cocoa projects.
 
@@ -36,7 +36,7 @@ Open the CLI and navigate to the location of the Xcode project. Edit the Podfile
 
 Install the pod and open the .xcworkspace file to view the project.
 
-You should create an iOS app in AppGallery Connect, and obtain the agconnect-services.plist file and add it to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project. [More to Development Process](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/ios-dev-process-0000001050168431)
+You should create an iOS app in AppGallery Connect, and obtain the agconnect-services.plist file and add it to the project. You should also generate a signing certificate fingerprint and add the certificate file to the project. [More to Development Process](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ios-dev-process-0000001050168431)
 
 ## Installation
 Use Xcode to open the decompressed project.
