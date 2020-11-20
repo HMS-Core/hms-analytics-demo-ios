@@ -50,7 +50,7 @@ Hardware requirements:
 2. A iPhone phone, which is used to debug the developed app
     
 Software requirements:
-1. HUAWEI Analytics Kit 5.0.2.300
+1. HUAWEI Analytics Kit 5.0.5.300
 2. Xcode
 
 
