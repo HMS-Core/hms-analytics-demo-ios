@@ -53,7 +53,7 @@ Hmsanalyticskitdemo演示了如何使用CocoaPods工具（Swift和Objective - C 
 2. iPhone，用于应用调试
     
 软件要求:
-1. 华为分析服务5.0.5.300
+1. 华为分析服务5.1.0.300
 2. Xcode
 
 
@@ -65,7 +65,7 @@ Hmsanalyticskitdemo演示了如何使用CocoaPods工具（Swift和Objective - C 
 <img src="https://github.com/HMS-Core/hms-ananlytics-demo-ios/blob/master/image/1.png" width=250 title="ID Photo DIY" div align=center border=5>
 
 点击Settings按钮:
-当点击Settings按钮，您会被要求提供性别、年龄和喜爱的运动。华为分析服务将把这些信息记录为用户属性。
+当点击Settings按钮，您会被要求提供喜爱的运动。华为分析服务将把这些信息记录为用户属性。
 
 <img src="https://github.com/HMS-Core/hms-ananlytics-demo-ios/blob/master/image/2.png" width=250 title="ID Photo DIY" div align=center border=5>
 

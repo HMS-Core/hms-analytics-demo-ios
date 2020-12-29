@@ -50,7 +50,7 @@ Hardware requirements:
 2. A iPhone phone, which is used to debug the developed app
     
 Software requirements:
-1. HUAWEI Analytics Kit 5.0.5.300
+1. HUAWEI Analytics Kit 5.1.0.300
 2. Xcode
 
 
@@ -62,7 +62,7 @@ And click the button TRUE or FALSE to answer the question; Click the Setting to 
 <img src="https://github.com/HMS-Core/hms-ananlytics-demo-ios/blob/master/image/1.png" width=250 title="ID Photo DIY" div align=center border=5>
 
 Click button SETTINGS:
-When you click the Setting button, you will be asked for your gender, age, and favorite sports. These information will be logged as users attributes by HUAWEI Analytics Kit.
+When you click the Setting button, you will be asked for your favorite sports. These information will be logged as users attributes by HUAWEI Analytics Kit.
 
 <img src="https://github.com/HMS-Core/hms-ananlytics-demo-ios/blob/master/image/2.png" width=250 title="ID Photo DIY" div align=center border=5>
 
