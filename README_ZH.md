@@ -53,7 +53,7 @@ Hmsanalyticskitdemo演示了如何使用CocoaPods工具（Swift和Objective - C 
 2. iPhone，用于应用调试
     
 软件要求:
-1. 华为分析服务5.1.0.300
+1. 华为分析服务5.2.0.300
 2. Xcode
 
 
